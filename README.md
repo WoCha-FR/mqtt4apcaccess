@@ -96,7 +96,7 @@ mqtt4apcaccess -a 192.168.1.9 -a 192.168.1.10
 
 mqtt4apcaccess is maintained under the [semantic versioning](https://semver.org/) guidelines.
 
-See the [releases](https://github.com//releases) on this repository for changelog.
+See the [releases](https://github.com/WoCha-FR/mqtt4apcaccess/releases) on this repository for changelog.
 
 ## License
 
